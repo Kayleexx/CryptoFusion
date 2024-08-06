@@ -78,5 +78,6 @@ The **CryptoFusion** is a web application designed to provide users with real-ti
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
 
+# Website: [CoinFusion](https://66b27952f8e81500083e6b0e--cryptofusion.netlify.app/)
 
 ---
