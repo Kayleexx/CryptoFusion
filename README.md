@@ -1,6 +1,3 @@
-Here’s a template for a README file for your cryptocurrency market web app:
-
----
 
 # CryptoFusion App
 
