@@ -17,8 +17,8 @@ The **CryptoFusion** is a web application designed to provide users with real-ti
 - **Frontend**: React, Ant Design, Chart.js
 - **State Management**: Redux, RTK Query
 - **APIs**:
-  - [CoinRanking API](https://coinranking1.p.rapidapi.com) for cryptocurrency data
-  - [Alpha Vantage API](https://alpha-vantage.p.rapidapi.com/query) for news
+  - [CoinRanking API](https://rapidapi.com/Coinranking/api/coinranking1) for cryptocurrency data
+  - [Alpha Vantage API](https://rapidapi.com/bonaipowered/api/news-api14) for news
 - **Deployment**: Local development with Ganache for blockchain interaction
 
 ## Setup and Installation
