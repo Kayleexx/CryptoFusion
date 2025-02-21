@@ -22,6 +22,7 @@ const App = () => (
               <Route path="/news" element={<News />} />
             </Routes>
           </div>
+  
         </Layout>
         <div className="footer">
           <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
