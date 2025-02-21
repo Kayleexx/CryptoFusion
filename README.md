@@ -32,7 +32,7 @@ The **CryptoFusion** is a web application designed to provide users with real-ti
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/crypto-market-app.git
+    git clone https://github.com/Kayleexx/CryptoFusion.git
     cd crypto-market-app
     ```
 
